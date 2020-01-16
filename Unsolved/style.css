@@ -1,0 +1,18 @@
+header {
+  background-color: darkslategray;
+}
+
+.header-h1 {
+  color: white;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.section1 {
+  float: left;
+}
+
+.section2 {
+  display: inline;
+}
